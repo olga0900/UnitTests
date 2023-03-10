@@ -1,0 +1,14 @@
+E:\Маша\Коноплёв\exchange-master\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+E:\Маша\Коноплёв\exchange-master\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+E:\Маша\Коноплёв\exchange-master\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+E:\Маша\Коноплёв\exchange-master\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+E:\Маша\Коноплёв\exchange-master\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\Маша\Коноплёв\exchange-master\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\Маша\Коноплёв\exchange-master\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Маша\Коноплёв\exchange-master\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Маша\Коноплёв\exchange-master\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Маша\Коноплёв\exchange-master\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+E:\Маша\Коноплёв\exchange-master\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Маша\Коноплёв\exchange-master\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\Маша\Коноплёв\exchange-master\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\Маша\Коноплёв\exchange-master\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
